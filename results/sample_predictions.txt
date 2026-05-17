@@ -1,1 +1,27 @@
-
+Sample Predictions Summary
+===========================
+Sample #1
+Text:       my refund is still pending and this experience is frustrating my ticket number is 33927
+True Class: negative
+Predicted:  negative
+----------------------------------------------------
+Sample #2
+Text:       i need information about the payment process
+True Class: neutral
+Predicted:  neutral
+----------------------------------------------------
+Sample #3
+Text:       the refund process was fast and convenient i appreciate the quick response
+True Class: positive
+Predicted:  positive
+----------------------------------------------------
+Sample #4
+Text:       the internet speed is slow and customer care is not helping my ticket number is 46030
+True Class: negative
+Predicted:  negative
+----------------------------------------------------
+Sample #5
+Text:       great service and clear communication from the support team
+True Class: positive
+Predicted:  positive
+----------------------------------------------------
